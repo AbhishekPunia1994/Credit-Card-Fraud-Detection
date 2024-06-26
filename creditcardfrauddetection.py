@@ -15,7 +15,7 @@ import streamlit as st
 
 
 # Load the dataset
-data = pd.read_csv("C:/Users/elfan/Downloads/creditcard.csv")
+data = pd.read_csv("path/Downloads/creditcard.csv")
 
 # (Assuming 'Class' column is the target variable indicating fraud or not)
 # Check dimensions of the dataset
